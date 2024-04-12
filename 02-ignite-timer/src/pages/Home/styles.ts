@@ -111,3 +111,4 @@ export const StopCountdownButton = styled(BaseCountdownButton)`
   &:not(:disabled):hover {
     background: ${(props) => props.theme['red-700']};
   }
+`
